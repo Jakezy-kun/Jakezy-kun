@@ -1,157 +1,285 @@
-# 👋 Hello, I'm Jakezy-kun!
+<!--
+  ─────────────────────────────────────────────────────────────
+  Jakezy-kun · GitHub Profile README
+  Before publishing, search this file for "EDIT:" and fix those spots.
+  ─────────────────────────────────────────────────────────────
+-->
 
 <div align="center">
-  
-### 💻 Aspiring Software Engineer | 🎓 IT Student | 🚀 Tech Enthusiast
 
-*Building the future, one commit at a time*
+<!-- Hero: one animated moment, nothing else competing with it -->
+<a href="https://jakezy-kun.github.io/">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&height=60&lines=Hi%2C+I'm+Ferdinand+%E2%80%94+Jakezy-kun;IT+student+learning+to+ship+real+software;Web+%26+mobile+today%2C+cloud+%26+security+next"
+    alt="Hi, I'm Ferdinand (Jakezy-kun) — IT student learning to ship real software"
+  />
+</a>
 
-[![GitHub followers](https://img.shields.io/github/followers/Jakezy-kun?style=social)](https://github.com/Jakezy-kun)
-[![GitHub stars](https://img.shields.io/github/stars/Jakezy-kun?style=social)](https://github.com/Jakezy-kun)
+<p>
+  I build web and mobile apps to learn how real systems are designed, tested and shipped.<br/>
+  Currently studying IT and working toward a software engineering career.
+</p>
+
+<!-- Action links first, vanity metrics later -->
+<a href="https://jakezy-kun.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefoxbrowser&logoColor=7AA2F7" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/ferdinand-m-manteza-015564327/">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" />
+</a>
+<!-- EDIT: replace with your real email -->
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email" />
+</a>
+<a href="https://github.com/Jakezy-kun?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-1a1b26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Repositories" />
+</a>
+
+<br/><br/>
+
+<sub>
+  <a href="#-about-me">About</a> &nbsp;&nbsp; <a href="#-tech-stack">Stack</a> &nbsp;&nbsp; <a href="#-what-im-learning-right-now">Learning</a> &nbsp;&nbsp; <a href="#-featured-work">Work</a> &nbsp;&nbsp; <a href="#-github-activity">Activity</a> &nbsp;&nbsp; <a href="#-lets-connect">Connect</a>
+</sub>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 About me
 
-I'm an **IT student** passionate about crafting elegant solutions to complex problems. Currently on a journey to become a **Software Engineer**, I'm exploring the vast world of technology with curiosity and determination.
+I like problems where the hard part isn't writing the code — it's deciding what the code should do. Most of my learning happens by building something end to end, breaking it, and rebuilding it better.
 
-- 🔭 Currently diving deep into **modern web & mobile development**
-- 🌱 Expanding my knowledge in **cloud computing** and **cybersecurity**
-- 💡 Love turning ideas into reality through code
-- 🎯 Goal: Build impactful software that makes a difference
+- 🎓 IT student, heading toward **software engineering**
+- 🔭 Building with **React, Vue and Flutter**, mostly on the front end for now
+- 🌱 Working my way into **cloud (AWS)** and **security fundamentals**
+- 🧪 Interested in testing, API design, and how teams keep systems maintainable
+- 💬 Happy to talk about student projects, Flutter, or anything web
 
----
+<details>
+<summary><b>How I like to work</b></summary>
 
-## 🛠️ Tech Stack
+<br/>
 
-### Languages & Frameworks
+| | |
+|---|---|
+| **Start with the user** | Decide what the screen should do before deciding how it looks. |
+| **Small commits** | Easier to review, easier to revert, easier to explain. |
+| **Read the docs first** | Faster than guessing, and I end up understanding the tool. |
+| **Ask early** | Being stuck quietly is the most expensive way to be stuck. |
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-</div>
-
-### Frontend Development
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-</div>
-
-### Mobile Development
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-</div>
+</details>
 
 ---
 
-## 📚 Currently Learning
+## 🛠 Tech stack
 
 <div align="center">
 
-```
-🐍 Python    ████████████░░░░░░░░  60%
-⚛️  React     ███████████░░░░░░░░░  55%
-💚 Vue.js    ██████████░░░░░░░░░░  50%
-🎨 Shadcn    █████████░░░░░░░░░░░  45%
-📱 Flutter   ████████░░░░░░░░░░░░  40%
-🎯 Dart      ████████░░░░░░░░░░░░  40%
-```
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=java,py,js,dart,html,css&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,vue,tailwind&theme=dark)](https://skillicons.dev)
+
+**Mobile**
+
+[![Mobile](https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark)](https://skillicons.dev)
+
+**Tools & platforms**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws&theme=dark)](https://skillicons.dev)
+
+<sub>Also using <b>shadcn/ui</b> for component design. &nbsp;·&nbsp; EDIT: remove anything here you haven't actually used.</sub>
 
 </div>
 
 ---
 
-## 🔍 Areas of Interest
+## 📚 What I'm learning right now
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      <br><br>
-      <strong>☁️ Cloud Computing</strong>
-      <br><br>
-      Exploring AWS services and cloud architecture to build scalable applications
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=security&logoColor=white" alt="Security"/>
-      <br><br>
-      <strong>🔐 Cybersecurity</strong>
-      <br><br>
-      Understanding security principles to build safer, more resilient software
-    </td>
-  </tr>
-</table>
+Instead of percentages that don't mean much, here's what I'm actually working on and why.
+
+| Focus | Why | What I'm building with it |
+|---|---|---|
+| **Python** | Automation and a path into data work | Small scripts and practice problems |
+| **React** | The default for modern web UI | Component-driven practice projects |
+| **Vue** | A second perspective on reactivity | Comparing patterns against React |
+| **Flutter + Dart** | One codebase, both platforms | A mobile app project |
+| **shadcn/ui** | Accessible components without reinventing them | UI layer for my React work |
+
+<details>
+<summary><b>🎯 Where I'm headed next</b></summary>
+
+<br/>
+
+- [ ] Deploy a full-stack project to AWS end to end
+- [ ] Write real tests instead of clicking through the app
+- [ ] Learn the OWASP Top 10 properly, not just by name
+- [ ] Contribute to an open source project
+- [ ] Ship a Flutter app to a real store listing
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud computing — what I'm after</b></summary>
+
+<br/>
+
+Understanding how applications actually run once they leave my laptop: compute, storage, networking basics, and what "scalable" costs in practice. Currently exploring **AWS** core services.
+
+</details>
+
+<details>
+<summary><b>🔐 Cybersecurity — what I'm after</b></summary>
+
+<br/>
+
+Learning to think about the failure cases: authentication, input validation, secrets handling, and the common web vulnerabilities. The goal is writing safer code by default, not chasing exploits.
+
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured work
+
+<!--
+  EDIT: Replace REPO-NAME below with real repositories, then delete this comment.
+  These cards break if the repo name is wrong or the repo is private.
+  Delete the whole section if you'd rather not pin anything yet.
+-->
 
 <div align="center">
-  
-![Jakezy-kun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakezy-kun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakezy-kun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jakezy-kun&theme=tokyonight&hide_border=true&background=0D1117)
+<a href="https://github.com/Jakezy-kun/REPO-NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakezy-kun&repo=REPO-NAME&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7" alt="Featured repository" />
+</a>
+<a href="https://github.com/Jakezy-kun/REPO-NAME-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakezy-kun&repo=REPO-NAME-2&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7" alt="Featured repository" />
+</a>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 📊 GitHub activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdinand-m-manteza-015564327/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://jakezy-kun.github.io/)
+<!-- Theme-aware: readable on both light and dark GitHub -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jakezy-kun&show_icons=true&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jakezy-kun&show_icons=true&hide_border=true&bg_color=00000000&title_color=3D59A1&icon_color=7AA2F7&text_color=414868" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jakezy-kun&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub statistics for Jakezy-kun" height="165" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jakezy-kun&hide_border=true&background=00000000&ring=BB9AF7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&currStreakNum=A9B1D6&sideNums=A9B1D6&dates=565F89" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Jakezy-kun&hide_border=true&background=00000000&ring=7AA2F7&fire=7AA2F7&currStreakLabel=3D59A1&sideLabels=414868&currStreakNum=414868&sideNums=414868&dates=6C7086" />
+  <img src="https://streak-stats.demolab.com?user=Jakezy-kun&hide_border=true&background=00000000" alt="Contribution streak for Jakezy-kun" height="165" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakezy-kun&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=A9B1D6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakezy-kun&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=3D59A1&text_color=414868" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakezy-kun&layout=compact&langs_count=8&hide_border=true&bg_color=00000000" alt="Most used languages by Jakezy-kun" height="150" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jakezy-kun&bg_color=00000000&color=A9B1D6&line=7AA2F7&point=BB9AF7&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jakezy-kun&bg_color=00000000&color=414868&line=3D59A1&point=7AA2F7&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jakezy-kun&area=true&hide_border=true" alt="Contribution activity graph for Jakezy-kun" width="95%" />
+</picture>
+
+</div>
+
+<details>
+<summary><b>🏆 Trophy case</b></summary>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Jakezy-kun&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Jakezy-kun&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jakezy-kun&no-frame=true&no-bg=true&column=7" alt="GitHub trophies for Jakezy-kun" />
+</picture>
+
+</div>
+
+</details>
+
+---
+
+## 💭 Random dev quote
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote, refreshed on every page load" />
+</picture>
+
+<sub>New quote every time this page loads. 🔄</sub>
 
 </div>
 
 ---
 
-## 💭 Random Dev Quote
+## 🎲 Off the clock
 
-<div align="center">
+<details>
+<summary><b>A few things about me</b></summary>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/>
 
-</div>
+- 🎮 Gaming is where I go when a bug has beaten me — the fix usually shows up after
+- ☕ Coffee is part of the toolchain
+- 📖 Trying to learn one genuinely new thing a day, even a small one
+- 🧩 I think good code explains itself, but a comment explaining *why* is never wasted
+- 🇵🇭 Building from the Philippines
 
----
-
-## 🎯 Fun Facts
-
-- ⚡ I believe the best code is the code that doesn't need comments
-- 🎮 When I'm not coding, you'll find me exploring new tech or gaming
-- 📖 Always learning something new every day
-- ☕ Coffee enthusiast and debugging partner
+</details>
 
 ---
 
+## 🤝 Let's connect
+
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+I'm open to collaborating on student projects, open source, or anything I can learn from.
 
-**Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out!** 🚀
+<a href="https://www.linkedin.com/in/ferdinand-m-manteza-015564327/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<!-- EDIT: replace with your real email, or delete this badge -->
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<!-- EDIT: replace yourhandle with your real X/Twitter handle, or delete this badge -->
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://jakezy-kun.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jakezy-kun&color=blueviolet&style=for-the-badge)
+<br/><br/>
+
+<a href="https://github.com/Jakezy-kun?tab=followers">
+  <img src="https://img.shields.io/github/followers/Jakezy-kun?style=flat&logo=github&logoColor=7AA2F7&label=Followers&labelColor=1a1b26&color=BB9AF7" alt="GitHub followers" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Jakezy-kun&style=flat&color=7AA2F7&label=Profile+views" alt="Profile views" />
+
+<br/><br/>
+
+<sub>Thanks for stopping by — have a look around the repositories.</sub>
 
 </div>

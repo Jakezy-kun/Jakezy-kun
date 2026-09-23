@@ -2,6 +2,10 @@
   ─────────────────────────────────────────────────────────────
   Jakezy-kun · GitHub Profile README
   Before publishing, search this file for "EDIT:" and fix those spots.
+
+  Note: badge anchors are deliberately written flush on one line with no
+  spaces or line breaks between them. GitHub renders whitespace between
+  <a> tags as stray underlined dashes. Don't reformat those lines.
   ─────────────────────────────────────────────────────────────
 -->
 
@@ -10,7 +14,7 @@
 <!-- Hero: one animated moment, nothing else competing with it -->
 <a href="https://jakezy-kun.github.io/">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&height=60&lines=Hi%2C+I'm+Ferdinand+%E2%80%94+Jakezy-kun;IT+student+learning+to+ship+real+software;Web+%26+mobile+today%2C+cloud+%26+security+next"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=800&height=55&lines=Hi%2C+I'm+Ferdinand+%E2%80%94+Jakezy-kun;IT+student+learning+to+ship+real+software;Web+%26+mobile+now%2C+cloud+%26+security+next"
     alt="Hi, I'm Ferdinand (Jakezy-kun) — IT student learning to ship real software"
   />
 </a>
@@ -21,19 +25,9 @@
 </p>
 
 <!-- Action links first, vanity metrics later -->
-<a href="https://jakezy-kun.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefoxbrowser&logoColor=7AA2F7" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/ferdinand-m-manteza-015564327/">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" />
-</a>
-<!-- EDIT: replace with your real email -->
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email" />
-</a>
-<a href="https://github.com/Jakezy-kun?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-1a1b26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Repositories" />
-</a>
+<a href="https://jakezy-kun.github.io/"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefoxbrowser&logoColor=7AA2F7" alt="Portfolio" /></a><a href="https://www.linkedin.com/in/ferdinand-m-manteza-015564327/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a><a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email" /></a><a href="https://github.com/Jakezy-kun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1a1b26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Repositories" /></a>
+
+<!-- EDIT: the Email badge above points at a placeholder address -->
 
 <br/><br/>
 
@@ -77,19 +71,19 @@ I like problems where the hard part isn't writing the code — it's deciding wha
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=java,py,js,dart,html,css&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,js,dart,html,css&theme=dark" alt="Java, Python, JavaScript, Dart, HTML, CSS" /></a>
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=react,vue,tailwind&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vue,tailwind&theme=dark" alt="React, Vue, Tailwind CSS" /></a>
 
 **Mobile**
 
-[![Mobile](https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark" alt="Flutter, Android Studio" /></a>
 
 **Tools & platforms**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws&theme=dark" alt="Git, GitHub, VS Code, Postman, Figma, AWS" /></a>
 
 <sub>Also using <b>shadcn/ui</b> for component design. &nbsp;·&nbsp; EDIT: remove anything here you haven't actually used.</sub>
 
@@ -152,12 +146,7 @@ Learning to think about the failure cases: authentication, input validation, sec
 
 <div align="center">
 
-<a href="https://github.com/Jakezy-kun/REPO-NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakezy-kun&repo=REPO-NAME&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7" alt="Featured repository" />
-</a>
-<a href="https://github.com/Jakezy-kun/REPO-NAME-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakezy-kun&repo=REPO-NAME-2&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7" alt="Featured repository" />
-</a>
+<a href="https://github.com/Jakezy-kun/REPO-NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakezy-kun&repo=REPO-NAME&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7" alt="Featured repository" /></a><a href="https://github.com/Jakezy-kun/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jakezy-kun&repo=REPO-NAME-2&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7" alt="Featured repository" /></a>
 
 </div>
 
@@ -173,7 +162,6 @@ Learning to think about the failure cases: authentication, input validation, sec
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jakezy-kun&show_icons=true&hide_border=true&bg_color=00000000&title_color=3D59A1&icon_color=7AA2F7&text_color=414868" />
   <img src="https://github-readme-stats.vercel.app/api?username=Jakezy-kun&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub statistics for Jakezy-kun" height="165" />
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jakezy-kun&hide_border=true&background=00000000&ring=BB9AF7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&currStreakNum=A9B1D6&sideNums=A9B1D6&dates=565F89" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Jakezy-kun&hide_border=true&background=00000000&ring=7AA2F7&fire=7AA2F7&currStreakLabel=3D59A1&sideLabels=414868&currStreakNum=414868&sideNums=414868&dates=6C7086" />
@@ -256,27 +244,13 @@ Learning to think about the failure cases: authentication, input validation, sec
 
 I'm open to collaborating on student projects, open source, or anything I can learn from.
 
-<a href="https://www.linkedin.com/in/ferdinand-m-manteza-015564327/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<!-- EDIT: replace with your real email, or delete this badge -->
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<!-- EDIT: replace yourhandle with your real X/Twitter handle, or delete this badge -->
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://jakezy-kun.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
-</a>
+<!-- EDIT: the Email and X badges below point at placeholders — fix or delete them -->
+
+<a href="https://www.linkedin.com/in/ferdinand-m-manteza-015564327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a><a href="https://jakezy-kun.github.io/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
 
 <br/><br/>
 
-<a href="https://github.com/Jakezy-kun?tab=followers">
-  <img src="https://img.shields.io/github/followers/Jakezy-kun?style=flat&logo=github&logoColor=7AA2F7&label=Followers&labelColor=1a1b26&color=BB9AF7" alt="GitHub followers" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Jakezy-kun&style=flat&color=7AA2F7&label=Profile+views" alt="Profile views" />
+<a href="https://github.com/Jakezy-kun?tab=followers"><img src="https://img.shields.io/github/followers/Jakezy-kun?style=flat&logo=github&logoColor=7AA2F7&label=Followers&labelColor=1a1b26&color=BB9AF7" alt="GitHub followers" /></a><img src="https://komarev.com/ghpvc/?username=Jakezy-kun&style=flat&color=7AA2F7&label=Profile+views" alt="Profile views" />
 
 <br/><br/>
 
